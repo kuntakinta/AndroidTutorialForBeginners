@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     void SetTime(int Hour ,int Minute ){
 
-
        // /save dat
         savedata savedata =new savedata(this);
         savedata.Alarmset(Hour,Minute);
