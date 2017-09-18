@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alaram</string>
+    <string name="welcome_text">"Hello Mars!"</string>
+    <string name="instruction_text">"set time"</string>
+
+
+</resources>
